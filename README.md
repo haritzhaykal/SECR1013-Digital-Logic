@@ -33,9 +33,16 @@ The Digital Logic course introduces fundamental concepts in digital electronics,
       <td>Logic Gates, Boolean Algebra</td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>31/10/24</td>
+      <td>Logic Gates, Boolean Algebra</td>
+      <td>Quiz 1</td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>03/11/24</td>
       <td>Logic Simplification, K-Map Minimization</td>
+      <td>Lab 1</td>
     </tr>
     <tr>
       <td>6</td>
@@ -56,6 +63,7 @@ The Digital Logic course introduces fundamental concepts in digital electronics,
       <td>9</td>
       <td>01/12/24</td>
       <td>Universal NAND/NOR, Design Using Deeds Software</td>
+      <td>Quiz 2,Lab 2</td>
     </tr>
     <tr>
       <td>10</td>
@@ -66,16 +74,19 @@ The Digital Logic course introduces fundamental concepts in digital electronics,
       <td>11</td>
       <td>15/12/24</td>
       <td>Latches, Flip-Flops, Timers, Midterm Exam</td>
+      <td>Midterm</td>
     </tr>
     <tr>
       <td>12</td>
       <td>22/12/24</td>
       <td>Counters, Design and Analysis of Counters</td>
+      <td>Project 1</td>
     </tr>
     <tr>
       <td>13</td>
       <td>29/12/24</td>
       <td>Sequential Logic Circuits, Synchronous Counters</td>
+      <td>Lab 3</td>
     </tr>
     <tr>
       <td>14</td>
@@ -86,6 +97,7 @@ The Digital Logic course introduces fundamental concepts in digital electronics,
       <td>15</td>
       <td>12/01/25</td>
       <td>Shift Registers, Quiz</td>
+      <td>Quiz 3</td>
     </tr>
     <tr>
       <td>16</td>
