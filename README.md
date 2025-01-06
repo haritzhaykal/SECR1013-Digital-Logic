@@ -106,3 +106,5 @@ The Digital Logic course introduces fundamental concepts in digital electronics,
     </tr>
   </tbody>
 </table>
+
+This course has deepened my understanding of digital logic, from number systems and Boolean algebra to combinational and sequential circuits. The hands-on labs and projects, along with quizzes, have provided a strong foundation for practical circuit design and analysis. The only problem is that the slides and past papers are not shared properly in pdf files so it makes it harder to revise.
